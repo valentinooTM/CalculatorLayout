@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorLayout</string>
+    <string name="counter_label_text">COUNTER</string>
+    <string name="counter_default_text">0</string>
+    <string name="increment_button_text">INCREMENT</string>
+    <string name="decrement_button_text">DECREMENT</string>
+    <string name="calculator_button_text">CALCULATOR</string>
+    <string name="previous_layout">PREVIOUS LAYOUT</string>
+    <string name="main_layout">MAIN LAYOUT</string>
+    <string name="base_calculator">BASE CALCULATOR</string>
+    <string name="quadratic_calculator">QUADRATIC CALCULATOR</string>
+</resources>
